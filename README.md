@@ -20,5 +20,3 @@ python -m unittest discover tests
 | Modules | `json`, `dataclasses`, `datetime`, `collections` |
 | Testing | `tests/test_finance.py` |
 
-## Resume bullet
-> Built a Python CLI finance tracker with OOP design, JSON persistence, custom exceptions and unit tests.
